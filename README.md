@@ -38,6 +38,6 @@
 2. 然后遵循[Shoes4](https://github.com/shoes/shoes4)上的Shoes4配置方法进行Shoes4界面库的安装配置.
 3. 完成以上步骤后,可以直接在终端下输入 <br/> ``` $ jruby main.rb ``` <br/>来运行本程序.
 
-更为详细的图文使用教程,可以去往此网站浏览.
+####最后笔者邮箱为:EdmomdFrank@yahoo.co.jp,欢迎报告BUG和来信交流!
 
 
