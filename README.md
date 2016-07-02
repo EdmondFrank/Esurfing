@@ -15,5 +15,29 @@
 - **JRuby 1.7.25(此处使用JRuby是因为要配合最新版的Shoes4界面库)**
 - **Shoes4(Ruby的一个轻量Gui)**
 
+运行界面如下:
+
+ ![image](https://github.com/EdmondFrank/Esurfing/blob/master/esurf.png)
+　
+　
+
+##选项解释:
+**帐号:**天翼客户端登录帐号
+
+**密码:** 同理
+
+**MAC:** *若勾选了路由器登录模式*,则填写路由器的MAC地址,(格式:XX-XX-XX-XX-XX-XX)
+
+**动态IP:** *若勾选了路由器登录模式*,则填写天翼分配给路由器的动态IP地址,可以在路由器的配置页面上查到.
+
+有关路由器配置页面,一般为:**192.168.1.1或1192.168.0.1**,如TP-Link的为192.168.1.1
+
+##使用说明
+1. 由于本程序使用到了[Shoes4](https://github.com/shoes/shoes4)界面库.
+而Shoes4界面库又是基于JRuby的,所以在使用前,请遵循[JRuby](http://jruby.org/getting-started)的安装说明,安装并配置JRuby环境.
+2. 然后遵循[Shoes4](https://github.com/shoes/shoes4)上的Shoes4配置方法进行Shoes4界面库的安装配置.
+3. 完成以上步骤后,可以直接在终端下输入 <br/> ``` $ jruby main.rb ``` <br/>来运行本程序.
+
+更为详细的图文使用教程,可以去往此网站浏览.
 
 
