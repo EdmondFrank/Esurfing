@@ -1,3 +1,4 @@
+##PS:由于天翼在9月下旬更新了认证算法,此项目已经失效,更多有关新版本还在分析ing...
 # Esurfing for Linux 
 ##天翼校园网客户端 for Linux
 
