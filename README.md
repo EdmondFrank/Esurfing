@@ -1,6 +1,8 @@
-##有关*翼客户端算法更新公告 **更新日期:2016-10-12**
+##有关*翼客户端算法更新公告 
 
-有关最新登录协议发布在:http://edmondfrank.github.io/blog/2016/10/12/2016-10-12-tian-yi-xiao-yuan-wang-ke-hu-duan-deng-lu-xie-yi-geng-xin/
+**更新日期:2016-10-12**
+
+有关最新登录协议发布在:**http://edmondfrank.github.io/blog/2016/10/12/2016-10-12-tian-yi-xiao-yuan-wang-ke-hu-duan-deng-lu-xie-yi-geng-xin/**
 
 **后续完整程序的发布请继续关注我的Github的动态!**
 
